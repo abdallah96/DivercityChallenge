@@ -1,0 +1,6 @@
+framework module Pods_Divercity_DivercityUITests {
+  umbrella header "Pods-Divercity-DivercityUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
